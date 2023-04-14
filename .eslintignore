@@ -1,0 +1,6 @@
+build/*
+node_modules/*
+babel.config.js
+webpack.dev.config.ts
+webpack.prod.config.ts
+types/*
